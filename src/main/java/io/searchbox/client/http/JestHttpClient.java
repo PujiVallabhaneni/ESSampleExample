@@ -29,10 +29,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import com.google.gson.Gson;
 
-/**
- * @author Dogukan Sonmez
- * @author cihat keser
- */
+
 public class JestHttpClient extends AbstractJestClient {
 
     private final static Logger log = LoggerFactory.getLogger(JestHttpClient.class);
