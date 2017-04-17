@@ -1,8 +1,6 @@
 package io.searchbox.client.http.apache;
 
-/**
- * @author ferhat sobay
- */
+
 
 import org.apache.http.client.methods.HttpEntityEnclosingRequestBase;
 import org.apache.http.client.methods.HttpGet;
