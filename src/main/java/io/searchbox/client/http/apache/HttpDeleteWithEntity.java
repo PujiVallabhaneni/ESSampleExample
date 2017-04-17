@@ -5,9 +5,7 @@ import org.apache.http.client.methods.HttpEntityEnclosingRequestBase;
 
 import java.net.URI;
 
-/**
- * @author ferhat
- */
+
 public class HttpDeleteWithEntity extends HttpEntityEnclosingRequestBase {
 
     public HttpDeleteWithEntity() {
